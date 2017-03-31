@@ -1,6 +1,9 @@
 # dCounts-js
 > Tiny count characters with no dependencies
 
+
+![Example](sample.gif)
+
 ## How to use:
 
 ### Installation
@@ -8,10 +11,10 @@
 **Using npm:**
 `npm install dcounts-js --save`
 
-**Manually:** Download **_dcounts.min.js_** from this repo and add before the closing body tag:
+**Manually:** Download **_dcounts-js.min.js_** from this repo and add before the closing body tag:
 
 ```html
-<script src="path/to/dcounts.min.js">
+<script src="path/to/dcounts-js.min.js">
 ```
 **Usage:**
 
