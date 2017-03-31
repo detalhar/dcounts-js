@@ -1,0 +1,44 @@
+{
+  "name": "dcounts-js",
+  "version": "0.1.0",
+  "description": "Tiny count characters with no dependencies",
+  "files": [
+    "src/dcounts-js.js",
+    "src/dcounts-js.min.js"
+  ],
+  "main": "./src/dcounts-js.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "count",
+    "characters",
+    "javascript",
+    "es6"
+  ],
+  "author": "Welkson Ramos <welksonr@hotmail.com> (github.com/welksonramos)",
+  "maintainers": [
+    "Jarrid Lima <jarridz@hotmail.com>",
+    "Marcos Vinicius <marcos@detalharweb.com.br>",
+    "Wendell Rodrigo <developer2@detalharweb.com.br>"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babili": "0.0.2",
+    "gulp-connect": "^5.0.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-release-tasks": "0.0.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-standard": "^9.0.0",
+    "run-sequence": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/detalhar/dcounts-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/detalhar/dcounts-js/issues"
+  },
+  "homepage": "https://github.com/detalhar/dcounts-js#readme"
+}
