@@ -1,4 +1,4 @@
-# dCounts-js
+# dCounts-js [![Build Status](https://travis-ci.org/detalhar/dcounts-js.svg?branch=master)](https://travis-ci.org/detalhar/dcounts-js) [![npm version](https://img.shields.io/npm/v/dcounts-js.svg)](https://www.npmjs.com/package/dcounts-js)
 > Tiny count characters with no dependencies
 
 
