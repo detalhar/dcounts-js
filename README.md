@@ -1,4 +1,4 @@
-# dCounts-js [![Build Status](https://travis-ci.org/detalhar/dcounts-js.svg?branch=master)](https://travis-ci.org/detalhar/dcounts-js) [![npm version](https://img.shields.io/npm/v/dcounts-js.svg)](https://www.npmjs.com/package/dcounts-js)
+# dCounts-js [![Build Status](https://travis-ci.org/detalhar/dcounts-js.svg?branch=master)](https://travis-ci.org/detalhar/dcounts-js) [![npm version](https://img.shields.io/npm/v/dcounts-js.svg)](https://www.npmjs.com/package/dcounts-js) [![install size](https://packagephobia.now.sh/badge?p=dcounts-js)](https://packagephobia.now.sh/result?p=dcounts-js)
 > Tiny count characters with no dependencies
 
 
